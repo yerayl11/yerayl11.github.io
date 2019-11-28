@@ -1,10 +1,30 @@
 #Titulo{
     text-align: center;
-    color: blue;
+    color: gold;
     font-family: 'Courier New', Courier, monospace;
     font-size: 26px;
     font-weight: bold;
     text-decoration: underline;
+
+
+}
+body{
+background-color: black;
+}
+ol{
+    text-align: center;
+border-style: solid;
+border-color: gold;
+margin: 50px;
+
+
+}
+li{
+    color: white;
+    margin: 100px;
+    
+display: inline;
+
 
 
 }
