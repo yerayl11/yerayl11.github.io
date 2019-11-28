@@ -14,6 +14,7 @@ background-color: black;
 ol{
     text-align: center;
 border-style: solid;
+border-radius: 10px;
 border-color: gold;
 margin: 50px;
 
