@@ -2,7 +2,7 @@
     text-align: center;
     color: gold;
     font-family: 'Courier New', Courier, monospace;
-    font-size: 26px;
+    font-size: 26 px;
     font-weight: bold;
     text-decoration: underline;
 
@@ -14,15 +14,15 @@ background-color: black;
 ol{
     text-align: center;
 border-style: solid;
-border-radius: 10px;
+border-radius: 11 px;
 border-color: gold;
-margin: 50px;
+margin: 50 px;
 
 
 }
 li{
     color: white;
-    margin: 100px;
+    margin: 100 px;
     
 display: inline;
 
