@@ -56,8 +56,10 @@ div.imagenes{
 
 .imagenes>p{
     color: white;
-    
-   
+    text-align: center;
+    padding-left: 270px;
+    padding-top: 60px;
+   font-size: 22px;
 }
 img{
     height: 490px;
