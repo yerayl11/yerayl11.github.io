@@ -30,5 +30,6 @@ display: inline;
 }
 div{
     display: flex;
+    border-style: none;
 justify-content: center;
 }
