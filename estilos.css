@@ -28,6 +28,7 @@ display: inline;
 
 
 }
-img{
-    display: block;
-    margin: auto;
+div{
+    display: flex;
+justify-content: center;
+}
