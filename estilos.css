@@ -13,6 +13,8 @@ body{
 background-color: black;
 }
 ol{
+    display: flex;
+    flex-direction: row;
    margin: auto;
    align-items: center;
    justify-content: center;
@@ -24,6 +26,7 @@ margin: 50 px;
 background-color: rgba(255, 217, 0, 0.753);
 height: 22px;
 font-size: 22px;
+margin-bottom: 20px;
 
 }
 li:hover{
@@ -34,14 +37,29 @@ li{
     
     color: white;
     margin: 100px;
+    list-style-type: none;
     
-display: inline;
+
 
 
 
 }
-div{
+
+div.imagenes{
     display: flex;
-    border-style: none;
-justify-content: center;
+    justify-content: space-between;
+    
+    border-style: solid;
+    border-color: gold;
+}
+
+
+.imagenes>p{
+    color: white;
+    
+   
+}
+img{
+    height: 490px;
+width: 490px;
 }
