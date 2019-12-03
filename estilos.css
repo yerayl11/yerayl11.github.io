@@ -51,6 +51,7 @@ div.imagenes{
     
     border-style: solid;
     border-color: gold;
+    margin-bottom: 2%;
 }
 
 
@@ -62,6 +63,8 @@ div.imagenes{
    font-size: 22px;
 }
 img{
-    height: 490px;
+    /*height: 490px;
+width: 490px;*/
+height: 100%;
 width: 490px;
 }
