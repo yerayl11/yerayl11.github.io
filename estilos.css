@@ -68,3 +68,5 @@ width: 490px;*/
 height: 100%;
 width: 490px;
 }
+a{text-decoration: none;}
+a:visited {color: white;}

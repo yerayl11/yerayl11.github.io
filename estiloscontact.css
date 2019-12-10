@@ -1,0 +1,64 @@
+body{background-color: black;
+color: white;
+}
+ol{
+    display: flex;
+    flex-direction: row;
+   margin: auto;
+   align-items: center;
+   justify-content: center;
+    text-align: center;
+border-style: solid;
+border-radius: 10px;
+border-color: gold;
+margin: 50 px;
+background-color: rgba(255, 217, 0, 0.753);
+height: 22px;
+font-size: 22px;
+margin-bottom: 20px;
+
+}
+li:hover{
+   
+    background-color: gold;
+}
+a{text-decoration: none;}
+a:visited {color: white;}
+li{
+    
+    color: white;
+    margin: 100px;
+    list-style-type: none;
+    }
+
+    .formulario{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+       
+    }
+    form{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+       align-items: center;
+     border-style: solid;
+     border-color: gold;
+     text-align: center;
+    }
+    textarea{
+        width: 1024px;
+    height: 223px;
+    margin-bottom: 40px;
+
+
+}
+button{background-color: gold;
+
+border-style: none;
+ border-radius: 50PX;
+ margin-bottom: 20px;
+ width: 90px;
+ margin-top: 20px;
+ color: white;
+}
