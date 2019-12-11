@@ -11,6 +11,7 @@
 }
 body{
 background-color: black;
+font-family: 'Dosis', sans-serif;
 }
 ol{
     display: flex;
@@ -70,3 +71,9 @@ width: 490px;
 }
 a{text-decoration: none;}
 a:visited {color: white;}
+audio{display: flex;
+justify-content:center;
+margin-left: 39%;
+}
+#musica{color: white;
+text-align: center;}
